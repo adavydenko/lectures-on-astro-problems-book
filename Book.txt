@@ -7,3 +7,4 @@ mainmatter:
 a_chapter.md
 another_chapter.md
 yet_another_chapter.md
+обратные_задачи_астрономии_и_методы_их_решения.md
